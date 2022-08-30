@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GaneshJi/static/css/main.f2abb3fe.css",
+    "main.js": "/GaneshJi/static/js/main.9d8a80b7.js",
+    "static/media/aud3.mp3": "/GaneshJi/static/media/aud3.d44abbdfa2e1f8421d07.mp3",
+    "static/media/aud1.mp3": "/GaneshJi/static/media/aud1.479877cd85533f3fd399.mp3",
+    "static/media/gs1.jpg": "/GaneshJi/static/media/gs1.f9710054ca2a65f9116a.jpg",
+    "static/media/aud2.mp3": "/GaneshJi/static/media/aud2.e0b283bd609b3b8bca36.mp3",
+    "static/media/g2.jpg": "/GaneshJi/static/media/g2.871e856a6471cf2c5c3a.jpg",
+    "static/media/g3.jpg": "/GaneshJi/static/media/g3.01c6d99cfe094931a3e5.jpg",
+    "static/media/b1.jpg": "/GaneshJi/static/media/b1.6424982108a156d097d4.jpg",
+    "static/media/g4.jpg": "/GaneshJi/static/media/g4.c40b594af5204fd7a196.jpg",
+    "static/media/g1.jpg": "/GaneshJi/static/media/g1.f1f513545dcfdbe464a4.jpg",
+    "static/media/b2.jpg": "/GaneshJi/static/media/b2.e500db58640fe0933139.jpg",
+    "static/media/gs2.jpg": "/GaneshJi/static/media/gs2.023b9f883d8cbdd5fbee.jpg",
+    "index.html": "/GaneshJi/index.html",
+    "main.f2abb3fe.css.map": "/GaneshJi/static/css/main.f2abb3fe.css.map",
+    "main.9d8a80b7.js.map": "/GaneshJi/static/js/main.9d8a80b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2abb3fe.css",
+    "static/js/main.9d8a80b7.js"
+  ]
+}
